@@ -24,7 +24,7 @@ public class NamePrinter {
 					System.out.println("Would to print another complete name? y/n");
 					break;
 				case "n":
-					System.out.println("Thanks for using this program! Goodbye!");
+//					System.out.println("Thanks for using this program! Goodbye!");
 					exit = true;
 					break;
 			}

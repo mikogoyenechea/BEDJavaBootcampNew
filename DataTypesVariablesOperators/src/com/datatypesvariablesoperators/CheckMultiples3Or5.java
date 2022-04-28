@@ -21,7 +21,7 @@ public class CheckMultiples3Or5 {
 				System.out.println("Would you like to check another number? y/n");
 				break;
 			case "n":
-				System.out.println("Thanks for using this program! Goodbye!");
+//				System.out.println("Thanks for using this program! Goodbye!");
 				exit = true;
 				break;
 			}
